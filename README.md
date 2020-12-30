@@ -88,3 +88,9 @@ Query 11
 This query selects all customer who has less than 10,000 outstanding amount from customer table
 
 ![qr11](https://user-images.githubusercontent.com/73158904/103338246-b8cfdc00-4ab8-11eb-9469-234bef5af353.png)
+
+Query 12
+
+This query selects all customer group by grade and customer city in descending order
+
+![qr12](https://user-images.githubusercontent.com/73158904/103338450-73f87500-4ab9-11eb-97ed-794103089ee2.png)
