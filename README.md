@@ -66,3 +66,9 @@ This query counts the total customer in database
 ![qr7](https://user-images.githubusercontent.com/73158904/103336548-7e177500-4ab3-11eb-8672-dae2d059ef8a.png)
 
 Query 8 
+
+This query shows agents and customers name in specific working area
+
+![qr8](https://user-images.githubusercontent.com/73158904/103337015-e2870400-4ab4-11eb-9aed-f84fcdaa6996.png)
+
+
