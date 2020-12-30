@@ -94,3 +94,9 @@ Query 12
 This query selects all customer group by grade and customer city in descending order
 
 ![qr12](https://user-images.githubusercontent.com/73158904/103338450-73f87500-4ab9-11eb-97ed-794103089ee2.png)
+
+Query 13
+
+This query display the name of customer who stay in USA and have payment greater then 5000
+
+![qr13](https://user-images.githubusercontent.com/73158904/103338927-f33a7880-4aba-11eb-9703-0d717588d3aa.png)
