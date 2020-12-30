@@ -7,7 +7,8 @@
 This Database is all about the record of all customer in all their orders. This database has the information of the customer / order and agents. This database sample came from internet and I found it very interesting yet knowledgeable.
 
 ## Table Names and Description
+   i. agents - this table shows the information of all agents
 
-  i. agents - this table shows the information of all agents
-  ii. customer - this table shows the information of all customer
-  iii. orders - this table shows the orders of all customer
+   ii. customer - this table shows the information of all customer
+
+   iii. orders - this table shows the orders of all customer
