@@ -40,3 +40,9 @@ Query 3
 This query displays all agents who have at least one dependent
 
 ![qr3](https://user-images.githubusercontent.com/73158904/103334968-7a352400-4aae-11eb-8f0c-b622b38b8174.png)
+
+Query 4
+
+This query displays all records from agents table where agent name not in Ivan and Alex
+
+![qr4](https://user-images.githubusercontent.com/73158904/103335406-ce8cd380-4aaf-11eb-9e91-303bfda5646d.png)
