@@ -59,3 +59,10 @@ This query uses the UNION operator to combine the name and workplace of both age
 
 ![qr6](https://user-images.githubusercontent.com/73158904/103336109-0f85e780-4ab2-11eb-9de7-d6da009b4f36.png)
 
+Query 7 
+
+This query counts the total customer in database
+
+![qr7](https://user-images.githubusercontent.com/73158904/103336548-7e177500-4ab3-11eb-8672-dae2d059ef8a.png)
+
+Query 8 
