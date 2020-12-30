@@ -71,4 +71,14 @@ This query shows agents and customers name in specific working area
 
 ![qr8](https://user-images.githubusercontent.com/73158904/103337015-e2870400-4ab4-11eb-9aed-f84fcdaa6996.png)
 
+Query 9
 
+This query perform Outer Join 
+
+![qr9](https://user-images.githubusercontent.com/73158904/103337430-4eb63780-4ab6-11eb-836c-3f874eb22745.png)
+
+Query 10 
+
+This query counts the customer and their average payment amount
+
+![q10](https://user-images.githubusercontent.com/73158904/103338016-ff710680-4ab7-11eb-88bd-a05702bde76e.png)
