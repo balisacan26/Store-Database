@@ -46,3 +46,16 @@ Query 4
 This query displays all records from agents table where agent name not in Ivan and Alex
 
 ![qr4](https://user-images.githubusercontent.com/73158904/103335406-ce8cd380-4aaf-11eb-9e91-303bfda5646d.png)
+
+Query 5
+
+This query shows UNION operator and combines two table into a single result set.
+
+![qr5](https://user-images.githubusercontent.com/73158904/103335835-44456f00-4ab1-11eb-85c6-ad9326fd803e.png)
+
+Query 6
+
+This query uses the UNION operator to combine the name and workplace of both agents and customer
+
+![qr6](https://user-images.githubusercontent.com/73158904/103336109-0f85e780-4ab2-11eb-9de7-d6da009b4f36.png)
+
