@@ -19,3 +19,12 @@ This Database is all about the record of all customer in all their orders. This 
 
 
 This Diagram shows the dependency of each table
+
+
+## Complex Queries
+
+Query 1
+
+This query displays all the column from two tables and combine
+
+![Query 1](https://user-images.githubusercontent.com/73158904/103334406-2590a980-4aac-11eb-81b5-60f775f29267.png)
