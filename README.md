@@ -12,3 +12,10 @@ This Database is all about the record of all customer in all their orders. This 
    ii. customer - this table shows the information of all customer
 
    iii. orders - this table shows the orders of all customer
+   
+## Database Dependency Diagram
+
+![Diagram](https://user-images.githubusercontent.com/73158904/103334209-8966a280-4aab-11eb-86a0-08b2f202effa.png)
+
+
+This Diagram shows the dependency of each table
