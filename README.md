@@ -82,3 +82,9 @@ Query 10
 This query counts the customer and their average payment amount
 
 ![q10](https://user-images.githubusercontent.com/73158904/103338016-ff710680-4ab7-11eb-88bd-a05702bde76e.png)
+
+Query 11
+
+This query selects all customer who has less than 10,000 outstanding amount from customer table
+
+![qr11](https://user-images.githubusercontent.com/73158904/103338246-b8cfdc00-4ab8-11eb-9469-234bef5af353.png)
