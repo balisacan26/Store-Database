@@ -35,3 +35,8 @@ This query display the agent name start with 'S'
 
 ![qr2](https://user-images.githubusercontent.com/73158904/103334587-ee6ec800-4aac-11eb-925a-b497a21b4357.png)
 
+Query 3
+
+This query displays all agents who have at least one dependent
+
+![qr3](https://user-images.githubusercontent.com/73158904/103334968-7a352400-4aae-11eb-8f0c-b622b38b8174.png)
